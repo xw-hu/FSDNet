@@ -22,17 +22,23 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 
 * PyTorch1.3.0
 * Python3.6
-* Cupy [Installation Guide](https://docs-cupy.chainer.org/en/stable/install.html#install-cupy)
+* Cupy [[Installation Guide](https://docs-cupy.chainer.org/en/stable/install.html#install-cupy)]
 
   
 ## Train and Test
 
 1. Clone this repository:          
-   ```git clone https://github.com/xw-hu/FSDNet.git
+   ```shell
+   git clone https://github.com/xw-hu/FSDNet.git
    ```
+   
 2. Train:
-   ```python3 train.py    
+   ```shell
+   python3 train.py    
    ```
+   
 3. Test:
-    ```python3 infer.py
-    ```
+   ```shell
+   python3 infer.py
+   ```
+   
