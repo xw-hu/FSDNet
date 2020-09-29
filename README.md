@@ -4,6 +4,8 @@
 
 by Xiaowei Hu, Tianyu Wang, Chi-Wing Fu, Yitong Jiang, Qiong Wang, and Pheng-Ann Heng.
 
+## Fast Shadow Detection Network
+
 This implementation is written by Xiaowei Hu at the Chinese University of Hong Kong.
 
 ***
