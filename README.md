@@ -48,4 +48,4 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 Please find the dataset at [https://github.com/xw-hu/CUHK-Shadow#cuhk-shadow-dateset](https://github.com/xw-hu/CUHK-Shadow#cuhk-shadow-dateset).
 
 ## Evaluation Function 
-Please find teh evaluation function at [https://github.com/xw-hu/CUHK-Shadow#cuhk-shadow-evaluation](https://github.com/xw-hu/CUHK-Shadow#cuhk-shadow-evaluation).
+Please find the evaluation function at [https://github.com/xw-hu/CUHK-Shadow#cuhk-shadow-evaluation](https://github.com/xw-hu/CUHK-Shadow#cuhk-shadow-evaluation).
