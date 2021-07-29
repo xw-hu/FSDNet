@@ -19,8 +19,8 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 &nbsp;&nbsp;&nbsp;&nbsp;    volume={30},                   
 &nbsp;&nbsp;&nbsp;&nbsp;    pages={1925--1934},                   
 &nbsp;&nbsp;&nbsp;&nbsp;    year={2021},                      
-&nbsp;&nbsp;&nbsp;&nbsp;    publisher={IEEE}
-}
+&nbsp;&nbsp;&nbsp;&nbsp;    publisher={IEEE}            
+&nbsp;&nbsp;&nbsp;&nbsp;  }
 
 
 ## Requirements
