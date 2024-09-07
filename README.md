@@ -22,6 +22,10 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 }
 ```
 
+## Results
+
+Please find the new results (without CRF for shadow detection) at [https://github.com/xw-hu/Unveiling-Deep-Shadows](https://github.com/xw-hu/Unveiling-Deep-Shadows).
+
 ## Requirements
 
 * PyTorch1.3.0
